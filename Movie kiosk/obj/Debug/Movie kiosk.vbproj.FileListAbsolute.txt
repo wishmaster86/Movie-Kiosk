@@ -1,0 +1,26 @@
+C:\Users\roysu\AppData\Local\Temporary Projects\Movie kiosk\bin\Debug\Movie kiosk.exe.config
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Movie kiosk.exe.config
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Movie kiosk.exe
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Movie kiosk.pdb
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Movie kiosk.xml
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\DotNetBrowser.Chromium.dll
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\DotNetBrowser.dll
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\DotNetBrowser.xml
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.vbprojResolveAssemblyReference.cache
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie_kiosk.Resources.resources
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.vbproj.GenerateResource.Cache
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.exe
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.xml
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.pdb
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\netflix-logo-klein.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\ziggogo-klein.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\Actions-application-exit-icon-klein1.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\maximize-button-klein.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\minimize-button-klein.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\Shutdown_button-klein.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Resources\youtube-button-klein.png
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Movie kiosk.exe.manifest
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\bin\Debug\Movie kiosk.application
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.exe.manifest
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie kiosk.application
+C:\Users\roysu\Documents\Visual Studio 2015\Projects\Movie kiosk\Movie kiosk\obj\Debug\Movie_kiosk.Kiosk.resources
